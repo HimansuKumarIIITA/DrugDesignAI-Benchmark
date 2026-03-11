@@ -1,0 +1,2 @@
+SMILES
+C[C@]12CC[C@H]3[C@H]([C@@H]1[C@@H]1C[C@@H]1[C@@]21CCC(=O)O1)[C@H]1C[C@H]1C1=CC(=O)CC[C@@]13C

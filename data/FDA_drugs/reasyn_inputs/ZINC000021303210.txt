@@ -1,0 +1,2 @@
+SMILES
+Brc1c(N=C2NCCN2)ccc2nccnc12

@@ -1,0 +1,2 @@
+SMILES
+N#Cc1ccc(C(c2ccc(C#N)cc2)n2cncn2)cc1

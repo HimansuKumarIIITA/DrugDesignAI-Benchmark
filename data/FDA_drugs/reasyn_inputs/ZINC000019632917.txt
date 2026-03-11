@@ -1,0 +1,2 @@
+SMILES
+CNC1=Nc2ccc(Cl)cc2C(c2ccccc2)=[N+]([O-])C1

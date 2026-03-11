@@ -1,0 +1,2 @@
+SMILES
+CCN(CC)C(=O)/C(C#N)=C/c1cc(O)c(O)c([N+](=O)[O-])c1

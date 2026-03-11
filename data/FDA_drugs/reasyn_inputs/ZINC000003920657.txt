@@ -1,0 +1,2 @@
+SMILES
+CC(=O)O[C@]1(C(C)=O)CC[C@H]2[C@@H]3CCC4=CC(=O)CCC4=C3[C@@H](c3ccc(N(C)C)cc3)C[C@@]21C

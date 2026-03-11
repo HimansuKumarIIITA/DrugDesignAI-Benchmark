@@ -1,0 +1,2 @@
+SMILES
+CN(C)c1ccc2nc3ccc(=[N+](C)C)cc-3sc2c1

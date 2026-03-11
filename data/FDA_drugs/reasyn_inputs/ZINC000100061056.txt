@@ -1,0 +1,2 @@
+SMILES
+CN1C=CC=C/C1=C/N=O

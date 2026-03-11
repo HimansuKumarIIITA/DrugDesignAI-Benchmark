@@ -1,0 +1,2 @@
+SMILES
+Clc1ccc2nsnc2c1N=C1NCCN1

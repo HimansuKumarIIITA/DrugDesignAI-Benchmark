@@ -1,0 +1,2 @@
+SMILES
+CC(C)NC(=N)N/C(N)=N\c1ccc(Cl)cc1

@@ -1,0 +1,2 @@
+SMILES
+O=[N+]([O-])c1cc([N+](=O)[O-])c(O)c([N+](=O)[O-])c1

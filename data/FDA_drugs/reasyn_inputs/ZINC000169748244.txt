@@ -1,0 +1,2 @@
+SMILES
+N#Cc1ccc(Oc2ccc3c(c2)COB3O)cc1

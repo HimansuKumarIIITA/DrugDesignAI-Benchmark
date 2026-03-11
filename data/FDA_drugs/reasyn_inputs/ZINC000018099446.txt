@@ -1,0 +1,2 @@
+SMILES
+CN(C)/N=N\c1[nH]cnc1C(N)=O

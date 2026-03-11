@@ -1,0 +1,2 @@
+SMILES
+COC1=CC(=O)C[C@@H](C)[C@]12Oc1c(Cl)c(OC)cc(OC)c1C2=O

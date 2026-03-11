@@ -1,0 +1,2 @@
+SMILES
+CN(N=O)C(=O)N[C@H]1[C@@H](O)O[C@H](CO)[C@@H](O)[C@@H]1O

@@ -1,0 +1,2 @@
+SMILES
+c1cnc2cc3c(cc2n1)[C@H]1CNC[C@@H]3C1

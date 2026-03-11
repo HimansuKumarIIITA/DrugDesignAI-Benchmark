@@ -1,0 +1,2 @@
+SMILES
+[C-]#[N+]CC(C)(C)OC

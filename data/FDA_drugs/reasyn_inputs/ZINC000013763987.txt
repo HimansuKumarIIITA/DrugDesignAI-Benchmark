@@ -1,0 +1,2 @@
+SMILES
+CN(C)c1ccc(C(=C2C=CC(=[N+](C)C)C=C2)c2ccc(N(C)C)cc2)cc1

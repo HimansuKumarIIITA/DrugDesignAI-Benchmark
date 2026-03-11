@@ -1,0 +1,2 @@
+SMILES
+C=C1C[C@@H]2CC[C@@]34C[C@H]5O[C@H]6[C@@H](O3)[C@H]3O[C@@H](CC[C@@H]3O[C@H]6[C@H]5O4)CC(=O)C[C@H]3[C@H](C[C@H]4O[C@@H](CC[C@@H]1O2)C[C@@H](C)C4=C)O[C@H](C[C@H](O)CN)[C@@H]3OC

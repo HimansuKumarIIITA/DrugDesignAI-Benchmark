@@ -1,0 +1,2 @@
+SMILES
+Nc1cc(Cl)c(N=C2NCCN2)c(Cl)c1

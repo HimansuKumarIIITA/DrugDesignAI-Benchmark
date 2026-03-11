@@ -1,0 +1,2 @@
+SMILES
+CN(C)C(=N)NC(=N)N

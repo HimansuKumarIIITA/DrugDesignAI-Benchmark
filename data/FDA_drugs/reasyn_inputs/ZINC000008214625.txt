@@ -1,0 +1,2 @@
+SMILES
+O=[N+]([O-])OCC(CO[N+](=O)[O-])O[N+](=O)[O-]

@@ -1,0 +1,2 @@
+SMILES
+NC(=O)c1cccc2cn(-c3ccc([C@@H]4CCCNC4)cc3)nc12

@@ -1,0 +1,2 @@
+SMILES
+N#C/C(=C1/SC[C@@H](c2ccc(Cl)cc2Cl)S1)n1ccnc1

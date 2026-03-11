@@ -1,0 +1,2 @@
+SMILES
+O=C(O)CCc1nc(-c2ccccc2)c(-c2ccccc2)o1

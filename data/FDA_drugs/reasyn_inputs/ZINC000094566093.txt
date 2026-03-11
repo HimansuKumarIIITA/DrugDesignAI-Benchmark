@@ -1,0 +1,2 @@
+SMILES
+COc1cc2nc(N3CCN(C(=O)[C@H]4COc5ccccc5O4)CC3)nc(N)c2cc1OC

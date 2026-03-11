@@ -1,0 +1,2 @@
+SMILES
+Cc1ncc(CO)c(CO)c1O

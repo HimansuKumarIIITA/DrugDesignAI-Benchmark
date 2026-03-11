@@ -1,0 +1,2 @@
+SMILES
+Fc1ccccc1C1=NCC(=S)N(CC(F)(F)F)c2ccc(Cl)cc21

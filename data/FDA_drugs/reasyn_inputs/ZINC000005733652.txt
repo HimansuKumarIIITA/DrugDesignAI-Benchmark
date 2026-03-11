@@ -1,0 +1,2 @@
+SMILES
+COc1ccc(-c2cc(=O)c3c(O)cc(O)cc3o2)cc1O

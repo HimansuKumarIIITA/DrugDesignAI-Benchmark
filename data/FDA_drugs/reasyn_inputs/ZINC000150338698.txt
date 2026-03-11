@@ -1,0 +1,2 @@
+SMILES
+NCCC[C@H](N)CC(=O)NC[C@@H]1NC(=O)[C@H](CO)NC(=O)[C@@H](N)CNC(=O)[C@H]([C@H]2CCN=C(N)N2)NC(=O)/C(=C\NC(N)=O)NC1=O

@@ -1,0 +1,2 @@
+SMILES
+O=C(N[C@H](CO)[C@H](O)c1ccc([N+](=O)[O-])cc1)C(Cl)Cl

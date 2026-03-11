@@ -1,0 +1,2 @@
+SMILES
+CCCCc1nc(Cl)c(CO)n1Cc1ccc(-c2ccccc2-c2nn[nH]n2)cc1

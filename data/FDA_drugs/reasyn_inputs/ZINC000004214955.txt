@@ -1,0 +1,2 @@
+SMILES
+Cn1c(CCCC(=O)O)nc2cc(N(CCCl)CCCl)ccc21

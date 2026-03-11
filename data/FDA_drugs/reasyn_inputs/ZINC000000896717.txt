@@ -1,0 +1,2 @@
+SMILES
+COc1cc(/C(O)=N/S(=O)(=O)c2ccccc2C)ccc1Cc1cn(C)c2ccc(NC(=O)OC3CCCC3)cc12

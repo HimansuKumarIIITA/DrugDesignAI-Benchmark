@@ -1,0 +1,2 @@
+SMILES
+Cc1cnc(C(=O)N[C@H]2CCCCC/C=C\[C@H]3C[C@@]3(C(=O)NS(=O)(=O)C3CC3)NC(=O)[C@@H]3C[C@@H](Oc4nc5ccccc5c5ccccc45)CN3C2=O)cn1

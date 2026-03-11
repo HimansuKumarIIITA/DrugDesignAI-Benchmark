@@ -1,0 +1,2 @@
+SMILES
+Cn1nnc(-c2ccc(-c3ccc(N4C[C@H](COP(=O)(O)O)OC4=O)cc3F)cn2)n1

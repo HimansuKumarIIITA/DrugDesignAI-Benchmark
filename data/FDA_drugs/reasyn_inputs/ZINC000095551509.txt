@@ -1,0 +1,2 @@
+SMILES
+C=C[C@@H]1C[C@]1(NC(=O)[C@@H]1C[C@@H]2CN1C(=O)[C@H](C(C)(C)C)NC(=O)O[C@@H]1C[C@H]1CCCCCc1nc3ccc(OC)cc3nc1O2)/C(O)=N/S(=O)(=O)C1CC1

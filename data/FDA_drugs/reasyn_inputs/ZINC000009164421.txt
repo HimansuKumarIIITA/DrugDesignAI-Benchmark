@@ -1,0 +1,2 @@
+SMILES
+Cn1c(N)c(NC(=O)NCCN)c[n+]1CC1=C(C(=O)O)N2C(=O)[C@@H](NC(=O)/C(=N\OC(C)(C)C(=O)O)c3nsc(N)n3)[C@H]2SC1

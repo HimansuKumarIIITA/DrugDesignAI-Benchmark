@@ -1,0 +1,2 @@
+SMILES
+CC1(C)[C@@H](C(=O)OCc2cccc(Oc3ccccc3)c2)[C@@H]1C=C(Cl)Cl

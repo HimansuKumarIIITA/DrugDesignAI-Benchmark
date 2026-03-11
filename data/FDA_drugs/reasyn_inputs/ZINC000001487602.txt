@@ -1,0 +1,2 @@
+SMILES
+ClC[C@@H]1CO1

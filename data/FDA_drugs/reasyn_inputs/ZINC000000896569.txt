@@ -1,0 +1,2 @@
+SMILES
+NS(=O)(=O)c1cc2c(cc1Cl)NCNS2(=O)=O

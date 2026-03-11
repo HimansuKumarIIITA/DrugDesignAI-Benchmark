@@ -1,0 +1,2 @@
+SMILES
+CCN(CC)CCN1C(=O)CN=C(c2ccccc2F)c2cc(Cl)ccc21

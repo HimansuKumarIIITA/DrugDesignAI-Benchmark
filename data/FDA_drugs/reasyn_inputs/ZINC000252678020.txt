@@ -1,0 +1,2 @@
+SMILES
+COCCCCC(=NOCCN)c1ccc(C(F)(F)F)cc1

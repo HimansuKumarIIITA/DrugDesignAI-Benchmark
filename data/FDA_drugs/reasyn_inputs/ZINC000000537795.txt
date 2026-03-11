@@ -1,0 +1,2 @@
+SMILES
+Cc1cnc(C(=O)NCCc2ccc(S(=O)(=O)/N=C(\O)NC3CCCCC3)cc2)cn1

@@ -1,0 +1,2 @@
+SMILES
+NC(N)=NC(=O)c1nc(Cl)c(N)nc1N

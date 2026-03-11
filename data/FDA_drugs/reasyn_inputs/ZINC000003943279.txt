@@ -1,0 +1,2 @@
+SMILES
+CCCCCCOC(=O)/N=C(\N)c1ccc(NCc2nc3cc(C(=O)N(CCC(=O)OCC)c4ccccn4)ccc3n2C)cc1

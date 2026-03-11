@@ -1,0 +1,2 @@
+SMILES
+CC(C)COc1ccc(CNC(=O)N(Cc2ccc(F)cc2)C2CCN(C)CC2)cc1

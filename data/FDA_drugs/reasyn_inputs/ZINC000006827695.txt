@@ -1,0 +1,2 @@
+SMILES
+O=P(O)(O)OP(=O)(O)O

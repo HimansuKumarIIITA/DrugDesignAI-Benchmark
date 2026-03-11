@@ -1,0 +1,2 @@
+SMILES
+O=C(O)[C@@H]1C[C@@H](O)CN1

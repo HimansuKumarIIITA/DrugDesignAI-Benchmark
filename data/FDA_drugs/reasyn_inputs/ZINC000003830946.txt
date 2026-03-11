@@ -1,0 +1,2 @@
+SMILES
+CC(=O)N(C[C@@H](O)CO)c1c(I)c(C(=O)NC[C@H](O)CO)c(I)c(C(=O)NC[C@@H](O)CO)c1I

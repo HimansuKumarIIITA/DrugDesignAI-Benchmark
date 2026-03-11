@@ -1,0 +1,2 @@
+SMILES
+CN/C(=C\[N+](=O)[O-])NCCSCc1csc(CN(C)C)n1

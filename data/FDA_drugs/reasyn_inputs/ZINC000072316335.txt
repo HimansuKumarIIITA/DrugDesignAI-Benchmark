@@ -1,0 +1,2 @@
+SMILES
+CN(C)C(=O)c1cc2cnc(Nc3ccc(N4CCNCC4)cn3)nc2n1C1CCCC1

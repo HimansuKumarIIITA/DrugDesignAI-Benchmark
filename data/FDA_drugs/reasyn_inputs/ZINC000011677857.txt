@@ -1,0 +1,2 @@
+SMILES
+COc1ccc(CNc2nc(N3CCC[C@H]3CO)ncc2/C(O)=N/Cc2ncccn2)cc1Cl

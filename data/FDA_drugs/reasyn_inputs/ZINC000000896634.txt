@@ -1,0 +1,2 @@
+SMILES
+CN1C(=O)[C@@H](O)N=C(c2ccccc2)c2cc(Cl)ccc21

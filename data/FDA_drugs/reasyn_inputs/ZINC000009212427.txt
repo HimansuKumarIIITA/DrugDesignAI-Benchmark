@@ -1,0 +1,2 @@
+SMILES
+Nc1nc2c(c(=O)[nH]1)N(C=O)[C@@H](CNc1ccc(C(=O)N[C@@H](CCC(=O)O)C(=O)O)cc1)CN2

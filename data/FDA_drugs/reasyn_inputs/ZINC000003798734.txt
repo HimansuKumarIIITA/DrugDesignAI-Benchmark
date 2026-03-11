@@ -1,0 +1,2 @@
+SMILES
+COc1cc(C)c(/C=C/C(C)=C/C=C/C(C)=C/C(=O)O)c(C)c1C

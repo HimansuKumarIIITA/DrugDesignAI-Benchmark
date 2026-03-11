@@ -1,0 +1,2 @@
+SMILES
+CNC(=O)c1c(I)c(NC(C)=O)c(I)c(C(=O)O)c1I

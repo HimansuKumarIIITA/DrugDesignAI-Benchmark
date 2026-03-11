@@ -1,0 +1,2 @@
+SMILES
+C#CCN[C@@H]1CCc2ccccc21

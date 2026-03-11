@@ -1,0 +1,2 @@
+SMILES
+OB1OCc2cc(F)ccc21

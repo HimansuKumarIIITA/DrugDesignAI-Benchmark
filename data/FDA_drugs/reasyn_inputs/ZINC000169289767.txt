@@ -1,0 +1,2 @@
+SMILES
+Cc1cc(-c2ccc(/N=N/c3c(S(=O)(=O)O)cc4cc(S(=O)(=O)O)cc(N)c4c3O)c(C)c2)ccc1/N=N/c1c(S(=O)(=O)O)cc2cc(S(=O)(=O)O)cc(N)c2c1O

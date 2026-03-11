@@ -1,0 +1,2 @@
+SMILES
+O=C(O)CN(CCN(CC(=O)O)CC(=O)O)CCN(CC(=O)O)[C@@H](COCc1ccccc1)C(=O)O

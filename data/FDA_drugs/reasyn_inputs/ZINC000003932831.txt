@@ -1,0 +1,2 @@
+SMILES
+C[C@]12CC[C@H]3[C@@H](CC[C@H]4NC(=O)C=C[C@]34C)[C@@H]1CC[C@@H]2C(=O)Nc1cc(C(F)(F)F)ccc1C(F)(F)F

@@ -1,0 +1,2 @@
+SMILES
+NC1=NC[C@H]2c3ccccc3Cc3ccccc3N12

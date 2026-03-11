@@ -1,0 +1,2 @@
+SMILES
+C[C@]12CC[C@@H]3c4ccc(O)cc4C[C@@H](CCCCCCCCC[S@@](=O)CCCC(F)(F)C(F)(F)F)[C@@H]3[C@@H]1CC[C@@H]2O

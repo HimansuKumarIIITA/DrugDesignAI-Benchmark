@@ -1,0 +1,2 @@
+SMILES
+Oc1c(I)cc(Cl)c2cccnc12

@@ -1,0 +1,2 @@
+SMILES
+Nc1ncnc2[nH]cnc12

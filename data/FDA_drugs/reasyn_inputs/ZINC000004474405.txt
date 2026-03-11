@@ -1,0 +1,2 @@
+SMILES
+CCNC(=O)CCC/C=C\C[C@H]1[C@@H](O)C[C@@H](O)[C@@H]1/C=C/[C@@H](O)CCc1ccccc1

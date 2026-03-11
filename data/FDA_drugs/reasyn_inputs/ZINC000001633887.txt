@@ -1,0 +1,2 @@
+SMILES
+CCCC[C@@H](CC)COC(=O)/C=C/c1ccc(OC)cc1

@@ -1,0 +1,2 @@
+SMILES
+CCCCOCc1ccc(O)c(OC)c1

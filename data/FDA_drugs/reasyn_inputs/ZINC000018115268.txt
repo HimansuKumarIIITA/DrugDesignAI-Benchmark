@@ -1,0 +1,2 @@
+SMILES
+CN/C(=N\C#N)NCCSCc1nc[nH]c1C

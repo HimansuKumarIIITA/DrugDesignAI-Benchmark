@@ -1,0 +1,2 @@
+SMILES
+COC(=O)/C=C/C(=O)OC

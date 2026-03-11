@@ -1,0 +1,2 @@
+SMILES
+O=C(CCCCCCC(=O)Nc1ccccc1)NO

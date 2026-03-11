@@ -1,0 +1,2 @@
+SMILES
+C[C@@H](O[C@H]1OCCN(Cc2nn(P(=O)(O)O)c(=O)[nH]2)[C@H]1c1ccc(F)cc1)c1cc(C(F)(F)F)cc(C(F)(F)F)c1

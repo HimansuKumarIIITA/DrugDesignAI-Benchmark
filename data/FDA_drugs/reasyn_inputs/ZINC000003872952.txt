@@ -1,0 +1,2 @@
+SMILES
+FC(F)O[C@H](Cl)C(F)(F)F

@@ -1,0 +1,2 @@
+SMILES
+C[C@]12C/C(=C/O)C(=O)C[C@@H]1CC[C@@H]1[C@@H]2CC[C@@]2(C)[C@H]1CC[C@]2(C)O

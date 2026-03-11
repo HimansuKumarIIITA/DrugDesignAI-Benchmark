@@ -1,0 +1,2 @@
+SMILES
+COC(=O)/N=c1\[nH]c2ccc(C(=O)c3ccccc3)cc2[nH]1

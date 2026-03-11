@@ -1,0 +1,2 @@
+SMILES
+O=c1[nH]cnc2[nH]ncc12

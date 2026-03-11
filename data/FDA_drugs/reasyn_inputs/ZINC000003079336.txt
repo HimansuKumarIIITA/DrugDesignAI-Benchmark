@@ -1,0 +1,2 @@
+SMILES
+CC(=O)OCC[N+](C)(C)C

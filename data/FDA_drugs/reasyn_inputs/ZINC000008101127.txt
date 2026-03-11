@@ -1,0 +1,2 @@
+SMILES
+CC1(C)C(C=C/C=C\C=C/C=C2/N(CCCCS(=O)(=O)O)c3ccc4ccccc4c3C2(C)C)=[N+](CCCCS(=O)(=O)O)c2ccc3ccccc3c21

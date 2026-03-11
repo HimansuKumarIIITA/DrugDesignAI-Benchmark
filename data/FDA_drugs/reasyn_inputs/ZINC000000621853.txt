@@ -1,0 +1,2 @@
+SMILES
+COc1cc2c(c(OC)c1OC)-c1ccc(OC)c(=O)cc1[C@@H](NC(C)=O)CC2

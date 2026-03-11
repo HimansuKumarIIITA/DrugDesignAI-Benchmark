@@ -1,0 +1,2 @@
+SMILES
+C[n+]1ccccc1/C=N/O

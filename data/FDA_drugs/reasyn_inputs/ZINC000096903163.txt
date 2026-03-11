@@ -1,0 +1,2 @@
+SMILES
+C=C1CC[C@H]2[C@@H](/C=C(\C)C(=O)[C@@]3(OC(C)=O)C[C@H](C)[C@H](OC(=O)c4ccccc4)[C@@H]3[C@H]1OC(C)=O)C2(C)C

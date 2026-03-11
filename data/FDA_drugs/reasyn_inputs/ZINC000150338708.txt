@@ -1,0 +1,2 @@
+SMILES
+COc1cc2c(cc1O)CCN[C@]21CS[C@@H]2c3c(OC(C)=O)c(C)c4c(c3[C@H](COC1=O)N1[C@@H](O)[C@@H]3Cc5cc(C)c(OC)c(O)c5[C@H]([C@H]21)N3C)OCO4

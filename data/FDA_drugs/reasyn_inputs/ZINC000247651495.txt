@@ -1,0 +1,2 @@
+SMILES
+O=[Si](O)O[Si](O)(O)O[Si](=O)O

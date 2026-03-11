@@ -1,0 +1,2 @@
+SMILES
+O=C1CN(/N=C/c2ccc(-c3ccc([N+](=O)[O-])cc3)o2)C(=O)N1

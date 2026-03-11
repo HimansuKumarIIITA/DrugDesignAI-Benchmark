@@ -1,0 +1,2 @@
+SMILES
+CC(=O)c1c(C)c2cnc(Nc3ccc(N4CCNCC4)cn3)nc2n(C2CCCC2)c1=O

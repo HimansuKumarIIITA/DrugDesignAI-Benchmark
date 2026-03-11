@@ -1,0 +1,2 @@
+SMILES
+COc1ccnc(C[S@](=O)c2nc3ccc(OC(F)F)cc3[nH]2)c1OC

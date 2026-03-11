@@ -1,0 +1,2 @@
+SMILES
+CNC[C@H](O)c1ccc(O)c(O)c1

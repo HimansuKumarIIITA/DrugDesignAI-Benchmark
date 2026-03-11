@@ -1,0 +1,2 @@
+SMILES
+COC(=O)C1=C(C)NC(C)=C(C(=O)OC(C)C)[C@H]1c1cccc2nonc12

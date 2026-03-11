@@ -1,0 +1,2 @@
+SMILES
+CC1(C)[C@H]2CC[C@@]1(CS(=O)(=O)O)C(=O)/C2=C/c1ccc(/C=C2/C(=O)[C@@]3(CS(=O)(=O)O)CC[C@H]2C3(C)C)cc1

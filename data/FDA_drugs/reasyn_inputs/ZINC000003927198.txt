@@ -1,0 +1,2 @@
+SMILES
+C=CC1=C(C(=O)O)N2C(=O)[C@@H](NC(=O)/C(=N\O)c3csc(N)n3)[C@H]2SC1

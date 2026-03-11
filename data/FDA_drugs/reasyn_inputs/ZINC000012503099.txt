@@ -1,0 +1,2 @@
+SMILES
+Cc1ccc(/C(=C\CN2CCCC2)c2ccccn2)cc1

@@ -1,0 +1,2 @@
+SMILES
+C/C=C/C(=O)N(CC)c1ccccc1C

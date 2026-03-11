@@ -1,0 +1,2 @@
+SMILES
+N#Cc1cc(NC(=O)C(=O)O)c(Cl)c(NC(=O)C(=O)O)c1

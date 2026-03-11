@@ -1,0 +1,2 @@
+SMILES
+O=[P@]1(N(CCCl)CCCl)NCCCO1

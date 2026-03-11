@@ -1,0 +1,2 @@
+SMILES
+CC1=C(CC(=O)O)c2cc(F)ccc2/C1=C\c1ccc([S@@](C)=O)cc1

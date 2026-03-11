@@ -1,0 +1,2 @@
+SMILES
+C[C@H](Cn1cnc2c(N)ncnc21)OCP(=O)(O)O

@@ -1,0 +1,2 @@
+SMILES
+FCOC(C(F)(F)F)C(F)(F)F

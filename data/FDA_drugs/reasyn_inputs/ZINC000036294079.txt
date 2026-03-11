@@ -1,0 +1,2 @@
+SMILES
+CN[C@@]1(c2ccccc2Cl)CCCCC1=O

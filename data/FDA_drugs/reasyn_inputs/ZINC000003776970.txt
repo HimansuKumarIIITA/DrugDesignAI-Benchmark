@@ -1,0 +1,2 @@
+SMILES
+C/C=C/C1=C(C(=O)O)N2C(=O)[C@@H](NC(=O)[C@H](N)c3ccc(O)cc3)[C@H]2SC1

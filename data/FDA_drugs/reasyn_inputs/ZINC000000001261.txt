@@ -1,0 +1,2 @@
+SMILES
+Clc1ccc2c(c1)CCc1cccnc1C2=C1CCNCC1

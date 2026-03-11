@@ -1,0 +1,2 @@
+SMILES
+FS(F)(F)(F)(F)F

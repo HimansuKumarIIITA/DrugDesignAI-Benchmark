@@ -1,0 +1,2 @@
+SMILES
+Cc1cn([C@H]2C=C[C@@H](CO)O2)c(=O)[nH]c1=O

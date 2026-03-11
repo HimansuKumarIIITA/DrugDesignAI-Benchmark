@@ -1,0 +1,2 @@
+SMILES
+C=C1[C@@H](n2cnc3c(=O)[nH]c(N)nc32)C[C@H](O)[C@H]1CO

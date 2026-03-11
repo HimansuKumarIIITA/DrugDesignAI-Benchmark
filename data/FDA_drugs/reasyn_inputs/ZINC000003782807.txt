@@ -1,0 +1,2 @@
+SMILES
+CCCc1c2oc(C(=O)O)cc(=O)c2cc2c(=O)cc(C(=O)O)n(CC)c12

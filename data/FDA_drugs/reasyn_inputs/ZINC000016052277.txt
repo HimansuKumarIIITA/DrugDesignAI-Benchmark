@@ -1,0 +1,2 @@
+SMILES
+C[C@H]1c2cccc(O)c2C(=O)C2=C(O)[C@]3(O)C(=O)C(C(=N)O)=C(O)[C@@H](N(C)C)[C@@H]3[C@@H](O)[C@@H]21

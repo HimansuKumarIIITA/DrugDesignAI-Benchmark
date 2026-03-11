@@ -1,0 +1,2 @@
+SMILES
+Cc1cc(C(C)(C)C)c(O)c(C)c1CC1=NCCN1

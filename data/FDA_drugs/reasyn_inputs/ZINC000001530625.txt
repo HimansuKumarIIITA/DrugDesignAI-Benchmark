@@ -1,0 +1,2 @@
+SMILES
+CCCCCc1cc(O)c2c(c1)OC(C)(C)[C@@H]1CCC(C)=C[C@@H]21

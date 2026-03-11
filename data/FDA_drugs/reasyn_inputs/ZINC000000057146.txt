@@ -1,0 +1,2 @@
+SMILES
+Cn1c(=O)c2c(ncn2C[C@H](O)CO)n(C)c1=O

@@ -1,0 +1,2 @@
+SMILES
+C[C@@]12CC3CC(N)(C1)C[C@](C)(C3)C2

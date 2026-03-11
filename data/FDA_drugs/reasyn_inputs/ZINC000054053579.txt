@@ -1,0 +1,2 @@
+SMILES
+CCN(CC)CCS(=O)(=O)[C@@H]1CCN2C(=O)c3coc(n3)CC(=O)C[C@H](O)/C=C(C)\C=C/CNC(=O)/C=C\[C@@H](C)[C@@H](C(C)C)OC(=O)[C@@H]12

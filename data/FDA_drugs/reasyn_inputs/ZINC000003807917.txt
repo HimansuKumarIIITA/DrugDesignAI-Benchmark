@@ -1,0 +1,2 @@
+SMILES
+C[C@]12CC[C@H]3[C@@H](CC=C4C[C@@H](O)CC[C@@]43C)[C@@H]1CCC2=O

@@ -1,0 +1,2 @@
+SMILES
+c1ccc2c(CC3=NCCN3)cccc2c1

@@ -1,0 +1,2 @@
+SMILES
+CN(C)CC/C=C1\c2ccccc2COc2ccccc21

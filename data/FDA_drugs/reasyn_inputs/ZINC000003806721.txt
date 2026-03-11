@@ -1,0 +1,2 @@
+SMILES
+COc1ccc2c3c1O[C@H]1[C@@H](O)C=C[C@H]4[C@@H](C2)N(C)CC[C@]314

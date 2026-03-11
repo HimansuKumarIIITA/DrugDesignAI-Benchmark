@@ -1,0 +1,2 @@
+SMILES
+Cn1nnc2c(C(N)=O)ncn2c1=O

@@ -1,0 +1,2 @@
+SMILES
+NS(=O)(=O)c1cc2c(cc1C(F)(F)F)N[C@@H](Cc1ccccc1)NS2(=O)=O

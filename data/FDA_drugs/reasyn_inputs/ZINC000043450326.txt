@@ -1,0 +1,2 @@
+SMILES
+COC(=O)C[C@@](O)(CCCC(C)(C)O)C(=O)O[C@@H]1C(OC)=C[C@]23CCCN2CCc2cc4c(cc2[C@@H]13)OCO4

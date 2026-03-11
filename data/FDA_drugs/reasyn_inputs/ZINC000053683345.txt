@@ -1,0 +1,2 @@
+SMILES
+COc1cc2/c(=N\c3ccc(Br)cc3F)nc[nH]c2cc1OCC1CCN(C)CC1

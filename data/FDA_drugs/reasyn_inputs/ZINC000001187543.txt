@@ -1,0 +1,2 @@
+SMILES
+Cn1cc[nH]c1=S

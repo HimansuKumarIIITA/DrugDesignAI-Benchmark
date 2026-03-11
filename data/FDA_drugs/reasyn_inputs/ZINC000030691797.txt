@@ -1,0 +1,2 @@
+SMILES
+N#Cc1ccccc1-c1cc(-c2ccccn2)cn(-c2ccccc2)c1=O
